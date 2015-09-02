@@ -36,4 +36,4 @@ BubbleShoot.Game = (function($){
     return Game;
 })(jQuery);
 
-//edited 9/1/15 - Kent (and now it's edited again)
+//edited 9/1/15 - Kent (and now it's edited again) And Neal's here too!
