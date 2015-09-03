@@ -37,3 +37,4 @@ BubbleShoot.Game = (function($){
 })(jQuery);
 
 //edited 9/3/15 - more git practice
+//I'm editing this while Solomon is sitting here at about 10:15am 9-3-15
